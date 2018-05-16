@@ -645,6 +645,7 @@ func dataBrokerImageName(vars []v1core.EnvVar) string {
 }
 
 // Checks whether a value is contained in an array
+// Something that's easy to spot.
 func contains(arr []string, str string) bool {
 	for _, a := range arr {
 		if a == str {
