@@ -2,7 +2,7 @@
 
 *NOTE: THIS GUIDE IS INCOMPLETE AND EXPERIMENTAL. FOLLOW AT YOUR OWN RISK*
 
-This quick start guide for FfDL describes how to setup FfDL on a baremetal instance.
+This quick start guide for FfDL describes how to setup FfDL on IBM Cloud and a baremetal instance.
 Starting from setting up a user, Docker and Kubernetes we will setup S3 drivers, build and install FfDL and finally run an exemplary training job. 
 
 ## Kick Start on IBM Cloud
